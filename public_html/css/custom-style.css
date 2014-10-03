@@ -1,14 +1,38 @@
 div {
-    border-style: solid;
+    border-style: none;
     border-width: 5px;
-    border-color: buttonface;
+    border-color: lightgreen;
     padding: 30px;
 }
 
 .container {
-   border-color: red; 
+   border-color: lightblue; 
 }
 
 .row {
-    border-color: lightblue;
+    border-color: buttonface;
+}
+.list-group-item {
+    border: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#laz{
+    text-decoration-style: inherit;
+    color: red;
+    background-image: url("http://wamu.org/sites/wamu.org/files/styles/headline_landscape/public/images/attach/sps.png?itok=A6-8Y_cL")
+}
+
+#rad{
+    text-decoration-style: double;
+    text-decoration: #28a4c9;
+    background-image: url("http://assets.sbnation.com/assets/1508741/madrid.gif")
+}
+
+#bands{
+    text-decoration-style: wavy;
+    text-decoration-color: buttonhighlight;
+    background-image: url("http://data2.whicdn.com/images/44094678/large.gif")
+    
 }
