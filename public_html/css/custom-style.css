@@ -21,18 +21,21 @@ div {
 #laz{
     text-decoration-style: inherit;
     color: red;
-    background-image: url("http://wamu.org/sites/wamu.org/files/styles/headline_landscape/public/images/attach/sps.png?itok=A6-8Y_cL")
+    background-image: url("http://glassmage.com/wp-content/uploads/2013/10/paisley-pattern.png")
 }
 
 #rad{
     text-decoration-style: double;
-    text-decoration: #28a4c9;
-    background-image: url("http://assets.sbnation.com/assets/1508741/madrid.gif")
+    text-decoration: blueviolet;
+    background-image: url("http://www.aliciargomez.com/images/background.jpg")
 }
 
 #bands{
     text-decoration-style: wavy;
     text-decoration-color: buttonhighlight;
-    background-image: url("http://data2.whicdn.com/images/44094678/large.gif")
+    background-image: url("http://www.promobilewebsites.com.au/site-promibilewebsites/wp-content/uploads/sites/13/2012/12/layer-4.jpg")
+}
+
+#padding{
     
 }
