@@ -6,7 +6,7 @@ div {
 }
 
 .container {
-   border-color: lightblue; 
+    border-color: lightblue; 
 }
 
 .row {
@@ -33,9 +33,11 @@ div {
 #bands{
     text-decoration-style: wavy;
     text-decoration-color: buttonhighlight;
-    background-image: url("http://www.promobilewebsites.com.au/site-promibilewebsites/wp-content/uploads/sites/13/2012/12/layer-4.jpg")
+    background-image: url("http://www.dreamscraper.com/wp-content/uploads/2014/06/bg.jpg")
 }
 
-#padding{
-    
+#atl{
+    text-decoration: wavy;
+    text-decoration-color: bisque;
+    background-image: url("http://www.norcallawfirm.com/wp-content/uploads/2012/01/bg3.jpg")
 }
