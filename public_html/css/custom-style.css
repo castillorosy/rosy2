@@ -20,24 +20,24 @@ div {
 
 #laz{
     text-decoration-style: inherit;
-    color: red;
+    color: blue;
     background-image: url("http://glassmage.com/wp-content/uploads/2013/10/paisley-pattern.png")
 }
 
 #rad{
     text-decoration-style: double;
-    text-decoration: blueviolet;
+    color: white;
     background-image: url("http://www.aliciargomez.com/images/background.jpg")
 }
 
 #bands{
     text-decoration-style: wavy;
-    text-decoration-color: buttonhighlight;
+    color: black;
     background-image: url("http://www.dreamscraper.com/wp-content/uploads/2014/06/bg.jpg")
 }
 
 #atl{
     text-decoration: wavy;
-    text-decoration-color: bisque;
+    color: bisque;
     background-image: url("http://www.norcallawfirm.com/wp-content/uploads/2012/01/bg3.jpg")
 }

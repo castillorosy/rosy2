@@ -32,7 +32,7 @@ function showThePage() {
     $('#show').hide('puff', {}, 2500);
 }
 function removeAPara() {
-    $('#randPara p:list').remove();
+    $('#randPara p:last').remove();
 }
 
 function addAPara() {
@@ -49,22 +49,8 @@ function mouseOutMe() {
 }
 
 function mouseClick() {
-    $('p').html('tf');
-    $('p').html('wtf');
-    $('p').html('asf');
-}
-//$("window").resize(resizedWindow);
-//
-//function resizedWindow()
-//{
-//    $("#second").html("Window was resized W: " + $("window").width() + " H: + ");
-//    $(("window").height());
-//}
-//$("document").ready(function() {
-//    $('#hideLogo').bind('click', hideTheImage);
-//    $('#showLogo').bind('click', showTheImage);
-//});
-
+    $('h1').html('hi');
+    }
 function hideTheImage() {
     $('#logo').hide('explode', {}, 2500);
 }
